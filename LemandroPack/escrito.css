@@ -1,7 +1,12 @@
-img{
-  display:block;
-  margin:auto;
-  }
+ .col-4 p{
+   font-size: 20px;
+   color: black;
+   font-weight: bold;
+ }
+  img{
+   display:block;
+   margin:auto;
+   }
   .row h1{
     font-size: 40px;
     color: black;
@@ -22,4 +27,3 @@ img{
     font-size: 40px;
     color:black;
     }
- 
