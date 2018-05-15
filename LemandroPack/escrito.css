@@ -1,0 +1,25 @@
+img{
+  display:block;
+  margin:auto;
+  }
+  .row h1{
+    font-size: 40px;
+    color: black;
+  }
+  .col-md-12 h1{
+    font-size: 30px;
+    color: white;
+    }
+  .col-6 h1{
+    font-size: 30px;
+    color: white;
+  }
+  .col-6 img{
+    height: 400px;
+    width: 400px;
+  }
+  #h1{
+    font-size: 40px;
+    color:black;
+    }
+ 
