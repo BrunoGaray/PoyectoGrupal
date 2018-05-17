@@ -1,8 +1,9 @@
 h1{
+  text-shadow: 2px 2px 5px red;
   font-family: fantasy;
   font-style: normal;
   font-size: 60px;
-  color: white;
+  color: black;
 }
 #universoDescripcion{
   font-family: sans-serif;
@@ -20,4 +21,26 @@ h1{
 }
 #audio{
   padding-right:  20px;
+}
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
 }
